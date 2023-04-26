@@ -44,7 +44,7 @@ After setting the variables, save the file and run the script with `node train.j
 
 ## Track or cancel training
 
-From the [replicate.com] dashboard you can:
+From the replicate.com dashboard you can:
 
 - see the progress of your training
 - view the logs
