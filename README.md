@@ -1,5 +1,7 @@
 # Fine tune an LLM using Replicate
 
+[How-to guide on Youtube](https://www.youtube.com/watch?v=mHupmQ-FXEc)
+
 `train.js` is a script for kicking off a fine-tuning of a large language model [using the Replicate API](https://replicate.com/docs/guides/fine-tune-a-language-model).
 
 You can fine-tune your language model with your own training data and choose from one of the available models: Llama, GPT, and Flan.
